@@ -1,6 +1,6 @@
 # 🎓 Student Grade Management System
 
-A simple Python-based project to manage student grades using CSV file handling. Ideal for beginners learning file I/O, functions, and dictionaries in Python.
+A simple, console-based Python application designed to manage student academic records efficiently using the built-in CSV module. The project provides hands-on experience with file handling, dictionaries, and user-defined functions, making it ideal for beginners diving into backend logic for real-world applications.
 
 ## ✅ Features
 
